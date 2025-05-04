@@ -76,4 +76,10 @@ or open the notebook in Jupyter/Colab
 
 Make sure to place the dataset file (netflix_content_2023.csv) in the project directory.
 
+## 📁 Dataset
 
+Now lets started with the task of Netflix Comtent Strategy Analysis by importing the necessary Python libraries and the dataset,
+
+<img width="976" alt="Screenshot 2025-04-29 at 5 07 09 PM" src="https://github.com/user-attachments/assets/e307cc3f-51f9-420c-a20f-4a0221300138" />
+
+<img width="915" alt="Screenshot 2025-04-29 at 5 07 39 PM" src="https://github.com/user-attachments/assets/dd171cae-0483-4ccc-9a72-86c7f9e0f5eb" />
