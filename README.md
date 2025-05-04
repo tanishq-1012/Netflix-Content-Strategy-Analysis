@@ -121,3 +121,26 @@ The graph shows the total viewership hours by month, which reveals a notable inc
 To delve deeper, we can analyze the most successful content (both shows and movies) and understand the specific characteristics, such as genre or theme, that may have contributed to high viewership:
 
 <img width="928" alt="Screenshot 2025-04-29 at 5 10 35 PM" src="https://github.com/user-attachments/assets/08ea8c27-524c-4ada-b9ec-392bcf83b1e7" />
+
+The top 5 most-viewed titles on Netflix in 2023 are:
+
+1.The Night Agent: Season 1 (English, Show) with 812.1 million hours viewed.
+
+2. Ginny & Georgia: Season 2 (English, Show) with 665.1 million hours viewed.
+
+3.King the Land: Limited Series (Korean, Movie) with 630.2 million hours viewed.
+
+4.The Glory: Season 1 (Korean, Show) with 622.8 million hours viewed.
+
+5.ONE PIECE: Season 1 (English, Show) with 541.9 million hours viewed.
+
+English-language shows dominate the top viewership spots. But, Korean content also has a notable presence in the top titles, which indicates its global popularity.
+
+## Plot 5
+
+Now, let's have a look at the viewership tends by content type:
+
+-> aggregate viewership hours by content type and release month  
+
+<img width="1020" alt="Screenshot 2025-04-29 at 5 10 52 PM" src="https://github.com/user-attachments/assets/0af18239-4817-426a-81f5-c80b315a3817" />
+
