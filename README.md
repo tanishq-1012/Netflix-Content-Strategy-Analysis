@@ -58,4 +58,22 @@ For the task of netflix content strategy analysis, we need data based on content
 
 All visualizations are created using `Plotly` with a clean and interactive design.
 
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/netflix-content-strategy-analysis.git
+   cd netflix-content-strategy-analysis
+
+## Dependencies
+
+pip install pandas plotly
+
+## Run the analysis notebook or Python script:
+
+python netflix_analysis.py
+or open the notebook in Jupyter/Colab
+
+Make sure to place the dataset file (netflix_content_2023.csv) in the project directory.
+
 
