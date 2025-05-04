@@ -25,3 +25,37 @@ For the task of netflix content strategy analysis, we need data based on content
 - **Python**
 - **Pandas** for data cleaning and preprocessing
 - **Plotly** for interactive and visually appealing graphs
+
+## 📊 Key Analyses Performed
+
+1. **Data Cleaning:**
+   - Converted viewership hours to numeric format for analysis.
+
+2. **Content Type Analysis:**
+   - Compared total viewership hours between shows and movies.
+
+3. **Language-wise Viewership:**
+   - Analyzed which languages performed best in terms of watch hours.
+
+4. **Monthly Trends:**
+   - Investigated how content released in different months performed.
+
+5. **Top Performing Titles:**
+   - Identified the top 5 most-watched shows/movies in 2023.
+
+6. **Seasonal Trends:**
+   - Compared viewership by seasons: Winter, Spring, Summer, Fall.
+
+7. **Release Volume vs Engagement:**
+   - Analyzed the number of monthly releases vs total viewership hours.
+
+## 📈 Visualizations Included
+
+- Bar charts of viewership by content type and language
+- Line graphs of monthly trends for shows and movies
+- Seasonal bar plots showing viewership distribution
+- Dual-axis plots to compare number of releases and viewership
+
+All visualizations are created using `Plotly` with a clean and interactive design.
+
+
