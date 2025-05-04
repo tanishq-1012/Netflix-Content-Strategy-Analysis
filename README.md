@@ -144,3 +144,9 @@ Now, let's have a look at the viewership tends by content type:
 
 <img width="1020" alt="Screenshot 2025-04-29 at 5 10 52 PM" src="https://github.com/user-attachments/assets/0af18239-4817-426a-81f5-c80b315a3817" />
 
+The graph compares viewership trends between movies and shows throughout 2023. It shows that shows consistently have higher viewership than movies, peaking in December. Movies have more fluctuating viewership, with notable increases in June and October. This indicates that Netflix’s audience engages more with shows across the year, while movie viewership experiences occasional spikes, possibly linked to specific releases or events.
+
+## Plot 6
+
+Now, let's explore the total viewership hours distributed across differnt release season:
+
