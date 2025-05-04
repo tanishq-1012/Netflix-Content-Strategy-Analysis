@@ -82,4 +82,30 @@ Now lets started with the task of Netflix Comtent Strategy Analysis by importing
 
 <img width="976" alt="Screenshot 2025-04-29 at 5 07 09 PM" src="https://github.com/user-attachments/assets/e307cc3f-51f9-420c-a20f-4a0221300138" />
 
+______________________________________________________________________________
+
+Lets start with cleaning and processing the 'Hours Viewed' column to prepare it for analysis
+
 <img width="915" alt="Screenshot 2025-04-29 at 5 07 39 PM" src="https://github.com/user-attachments/assets/dd171cae-0483-4ccc-9a72-86c7f9e0f5eb" />
+
+------------------------------------------------------------------------------
+
+The “Hours Viewed” column has been successfully cleaned and converted to a numeric format. Now, I’ll analyze trends in content type to determine whether shows or movies dominate viewership. Let’s visualize the distribution of total viewership hours between Shows and Movies:
+
+<img width="531" alt="Screenshot 2025-04-29 at 5 07 59 PM" src="https://github.com/user-attachments/assets/46bb7fc5-4acb-4bbf-ab86-b9567b919fd0" />
+
+## Plot 1
+
+<img width="748" alt="Screenshot 2025-04-29 at 5 08 19 PM" src="https://github.com/user-attachments/assets/cec5ef98-fa80-4afe-ad47-d7794072b976" />
+
+The visualization indicates that shows dominate the total viewership hours on Netflix in 2023 compared to movies. This suggests that Netflix’s content strategy leans heavily toward shows, as they tend to attract more watch hours overall.
+
+## Plot 2
+
+Next, let’s analyze the distribution of viewership across different languages to understand which languages are contributing the most to Netflix’s content consumption:
+
+<img width="975" alt="Screenshot 2025-04-29 at 5 09 51 PM" src="https://github.com/user-attachments/assets/9b9c1ca8-4163-4bf8-b372-54deef8d835e" />
+
+
+
+
