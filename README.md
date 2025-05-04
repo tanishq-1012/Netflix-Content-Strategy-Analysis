@@ -106,6 +106,5 @@ Next, let’s analyze the distribution of viewership across different languages 
 
 <img width="975" alt="Screenshot 2025-04-29 at 5 09 51 PM" src="https://github.com/user-attachments/assets/9b9c1ca8-4163-4bf8-b372-54deef8d835e" />
 
-
-
+The visualization reveals that English-language content significantly dominates Netflix’s viewership, followed by other languages like Korean. It indicates that Netflix’s primary audience is consuming English content, although non-English shows and movies also have a considerable viewership share, which shows a diverse content strategy.
 
