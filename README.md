@@ -108,3 +108,16 @@ Next, let’s analyze the distribution of viewership across different languages 
 
 The visualization reveals that English-language content significantly dominates Netflix’s viewership, followed by other languages like Korean. It indicates that Netflix’s primary audience is consuming English content, although non-English shows and movies also have a considerable viewership share, which shows a diverse content strategy.
 
+## Plot 3
+
+Next, I’ll analyze how viewership varies based on release dates to identify any trends over time, such as seasonality or patterns around specific months:
+
+<img width="975" alt="Screenshot 2025-04-29 at 5 10 12 PM" src="https://github.com/user-attachments/assets/eeed9cac-f473-4e4a-b5c0-02000ad0f889" />
+
+The graph shows the total viewership hours by month, which reveals a notable increase in viewership during June and a sharp rise toward the end of the year in December. It suggests that Netflix experiences spikes in audience engagement during these periods, possibly due to strategic content releases, seasonal trends, or holidays, while the middle months have a steady but lower viewership pattern.
+
+## Plot 4
+
+To delve deeper, we can analyze the most successful content (both shows and movies) and understand the specific characteristics, such as genre or theme, that may have contributed to high viewership:
+
+<img width="928" alt="Screenshot 2025-04-29 at 5 10 35 PM" src="https://github.com/user-attachments/assets/08ea8c27-524c-4ada-b9ec-392bcf83b1e7" />
