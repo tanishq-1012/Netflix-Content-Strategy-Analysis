@@ -19,3 +19,9 @@ The dataset contains information about all the Netflix content released in **202
 - Availability Status
 
 For the task of netflix content strategy analysis, we need data based on content titles, types (shows, movie), genre, language, and release details (date, day of the week, season) to understand timing and content performance. Viewership metrics like hours viewed are also crucial for measuring audience engagement.
+
+## 🛠️ Technologies Used
+
+- **Python**
+- **Pandas** for data cleaning and preprocessing
+- **Plotly** for interactive and visually appealing graphs
