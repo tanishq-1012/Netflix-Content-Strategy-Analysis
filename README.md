@@ -207,4 +207,4 @@ So, the content strategy of Netflix revolves around maximizing viewership throug
 -> Tanishq Sharma
 Data Science and AI Developer @ FutureEx.ai
 🔗 https://www.linkedin.com/feed/
-📫 Email: tanishqsharmaofficial@yahoo.com
+📫 Email: tanishq1012l@yahoo.com
