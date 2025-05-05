@@ -150,3 +150,29 @@ The graph compares viewership trends between movies and shows throughout 2023. I
 
 Now, let's explore the total viewership hours distributed across differnt release season:
 
+<img width="821" alt="Screenshot 2025-04-29 at 5 11 11 PM" src="https://github.com/user-attachments/assets/c34f1199-a051-4241-a95c-7b6abe9586e0" />
+
+The graph indicates that viewership hours peak significantly in the Fall season, with over 80 billion hours viewed, while Winter, Spring, and Summer each have relatively stable and similar viewership around the 20 billion mark. This suggests that Netflix experiences the highest audience engagement during the Fall.
+
+## Plot 7
+
+Now let's analyze the number of content and their viewership hours acros months:
+
+<img width="981" alt="Screenshot 2025-04-29 at 5 11 30 PM" src="https://github.com/user-attachments/assets/b1b178c4-7f44-470d-993e-b4a8e6dfb53b" />
+
+While the number of releases is relatively steady throughout the year, viewership hours experience a sharp increase in June and a significant rise in December, despite a stable release count. This indicates that viewership is not solely dependent on the number of releases but influenced by the timing and appeal of specific content during these months.
+
+## Plot 8
+
+Next, lets explore whether Netflix has a preferennce for releasing content on specific weekdays and how this influences viewership patterns:
+
+
+The graph highlights that most content releases occur on Fridays, with viewership hours also peaking significantly on that day. This suggests that Netflix strategically releases content toward the weekend to maximize audience engagement. The viewership drops sharply on Saturdays and Sundays, despite some releases, indicating that the audience tends to consume newly released content right at the start of the weekend, which makes Friday the most impactful day for both releases and viewership.
+
+## Plot 9
+
+To further understand the strategy, let’s explore specific high-impact dates, such as holidays or major events, and their correlation with content releases:
+
+
+
+
