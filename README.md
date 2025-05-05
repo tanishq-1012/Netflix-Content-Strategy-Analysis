@@ -164,8 +164,47 @@ While the number of releases is relatively steady throughout the year, viewershi
 
 ## Plot 9
 
+Next, let’s explore whether Netflix has a preference for releasing content on specific weekdays and how this influences viewership patterns:
+
+<img width="1013" alt="Screenshot 2025-04-29 at 5 11 48 PM" src="https://github.com/user-attachments/assets/ec18984a-05b1-4b4b-a304-359008814e57" />
+
+The graph highlights that most content releases occur on Fridays, with viewership hours also peaking significantly on that day. This suggests that Netflix strategically releases content toward the weekend to maximize audience engagement. The viewership drops sharply on Saturdays and Sundays, despite some releases, indicating that the audience tends to consume newly released content right at the start of the weekend, which makes Friday the most impactful day for both releases and viewership.
+
+## Plot 10
+
 To further understand the strategy, let’s explore specific high-impact dates, such as holidays or major events, and their correlation with content releases:
 
+**Define significant holidays and events in 2023*
+
+<img width="701" alt="Screenshot 2025-04-29 at 5 12 17 PM" src="https://github.com/user-attachments/assets/9c3831e0-27ab-478f-a4a9-804ac4fa0422" />
+
+The data reveals that Netflix has strategically released content around key holidays and events. Some of the significant releases include:
+
+**New Year’s Period**: The Glory: Season 1, La Reina del Sur: Season 3, and Kaleidoscope: Limited Series were released close to New Year’s Day, resulting in high viewership.
+
+**Valentine’s Day**: Perfect Match: Season 1 and The Romantics: Limited Series were released on February 14th, which align with a romantic theme and capitalize on the holiday’s sentiment.
 
 
+## 📌 Insights Gained
 
+1. Shows dominate viewership hours compared to movies.
+2. English content remains the most watched, with Korean content gaining strong traction.
+3. Fall and December show significant spikes in viewership — hinting at strategic content drops.
+4. The number of releases does not directly correlate with higher viewership — timing and type matter more.
+
+## Summary
+
+So, the content strategy of Netflix revolves around maximizing viewership through targeted release timing and content variety. Shows consistently outperform movies in viewership, with significant spikes in December and June, indicating strategic releases around these periods. The Fall season stands out as the peak time for audience engagement. Most content is released on Fridays, which aims to capture viewers right before the weekend, and viewership aligns strongly with this release pattern. While the number of releases is steady throughout the year, viewership varies, which suggests a focus on high-impact titles and optimal release timing over sheer volume.
+
+📚 Future Improvements
+
+* Include genre-specific analysis.
+* Incorporate user ratings and completion rates for deeper insights.
+* Predict future successful titles using machine learning.
+
+## 👨‍💻 Author
+
+-> Tanishq Sharma
+Data Science and AI Developer @ FutureEx.ai
+🔗 https://www.linkedin.com/feed/
+📫 Email: tanishqsharmaofficial@yahoo.com
