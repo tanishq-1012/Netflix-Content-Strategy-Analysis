@@ -162,19 +162,10 @@ Now let's analyze the number of content and their viewership hours acros months:
 
 While the number of releases is relatively steady throughout the year, viewership hours experience a sharp increase in June and a significant rise in December, despite a stable release count. This indicates that viewership is not solely dependent on the number of releases but influenced by the timing and appeal of specific content during these months.
 
-## Plot 8
-
-Next, lets explore whether Netflix has a preferennce for releasing content on specific weekdays and how this influences viewership patterns:
-
-<img width="981" alt="Screenshot 2025-04-29 at 5 11 30 PM" src="https://github.com/user-attachments/assets/8f7b8491-234c-496e-9a6f-31370b2d082a" />
-
-The graph highlights that most content releases occur on Fridays, with viewership hours also peaking significantly on that day. This suggests that Netflix strategically releases content toward the weekend to maximize audience engagement. The viewership drops sharply on Saturdays and Sundays, despite some releases, indicating that the audience tends to consume newly released content right at the start of the weekend, which makes Friday the most impactful day for both releases and viewership.
-
 ## Plot 9
 
 To further understand the strategy, let’s explore specific high-impact dates, such as holidays or major events, and their correlation with content releases:
 
-<img width="1013" alt="Screenshot 2025-04-29 at 5 11 48 PM" src="https://github.com/user-attachments/assets/0a2636fb-610d-4be7-b44a-1066b5d4071a" />
 
 
 
